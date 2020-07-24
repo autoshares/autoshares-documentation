@@ -8,7 +8,7 @@ description: >-
 
 ## Introduction
 
-Autoshares Trader's knowledge base represents a collection of troubleshooting articles and how-to guides that explain how to deal with the most frequently occurring issues and also how to configure Autoshares Trader. Whether you have a certain service not working properly or whether you need to configure margin rates and commissions, the knowledge base is likely the place to feature such content.
+Autoshares Web Trader's knowledge base represents a collection of troubleshooting articles and how-to guides that explain how to deal with the most frequently occurring issues and also how to configure Autoshares Web Trader. Whether you have a certain service not working properly or whether you need to configure margin rates and commissions, the knowledge base is likely the place to feature such content.
 
 The knowledge base consists of two sections:
 
