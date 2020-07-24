@@ -1,12 +1,12 @@
 ---
-description: Get to know the layout of Autoshares Trader's web terminal
+description: Get to know the layout of the Web Trading Platform
 ---
 
 # Platform Layout
 
 ## How to set up a layout?
 
-Autoshares Trader features a customizable widget-based user interface. Personalize trading dashboards to meet you trading style. Here is a quick rundown of icons and settings used in the platform with their meanings and purpose.
+Web Trader features a customizable widget-based user interface. Personalize trading dashboards to meet you trading style. Here is a quick rundown of icons and settings used in the platform with their meanings and purpose.
 
 | Icon | Name | Description |
 | :--- | :--- | :--- |
@@ -19,7 +19,7 @@ Autoshares Trader features a customizable widget-based user interface. Personali
 
 ## Trading Dashboard
 
-Web Trader Platform features rich functionality, yet easy-to-navigate user interface. Users can group widgets by color; for example, the **Watchlist** widget can be linked with the **News**, and the **Chart** widget. Connecting the three widgets together allows users to check the latest news and the chart of the selected security automatically once the symbol is typed.
+Web Trader features rich functionality, yet easy-to-navigate user interface. Users can group widgets by color; for example, the **Watchlist** widget can be linked with the **News**, and the **Chart** widget. Connecting the three widgets together allows users to check the latest news and the chart of the selected security automatically once the symbol is typed.
 
 ![](../../.gitbook/assets/screenshot-2020-03-19-at-16.42.42.png)
 
@@ -51,7 +51,7 @@ The penultimate checkbox is called **Turn safe mode on** and it enables you to p
 
 ## Marquee Settings
 
-Autoshares Trader's Marquee streams security information in the most flexible real-time quote displays. With Autoshares Trader's Marquee, you can combine real-time data of securities in a variety of customizable displays. The content of Marquee can be customized in three different models:
+WebTrader's Marquee streams security information in the most flexible real-time quote displays. With Autoshares Trader's Marquee, you can combine real-time data of securities in a variety of customizable displays. The content of Marquee can be customized in three different models:
 
 1. **Positions**. Marquee that shows updated quotes of all the symbols you traded and opened positions in.
 2. **Watchlist**. Marquee that shows updated quotes of the three different types of securities: Stocks, Forex, or Indices.
@@ -59,7 +59,5 @@ Autoshares Trader's Marquee streams security information in the most flexible re
 
 ## Tabs
 
-Autoshares Trader's interface is designed to make it easy for users to find features, place and organize widgets as they want. Each tab is customizable and can contain any component the user chooses from our widget list. By scrolling the drop-down menu of "Add Widget", click on the picked widget and it will be automatically added to the tab menu. You can also create and add extra tabs and label them to break down your trading tasks into simple actions.
-
-![](../../.gitbook/assets/screenshot-2020-03-20-at-19.00.59.png)
+Web Trader's interface is designed to make it easy for users to find features, place and organize widgets as they want. Each tab is customizable and can contain any component the user chooses from our widget list. By scrolling the drop-down menu of "Add Widget", click on the picked widget and it will be automatically added to the tab menu. You can also create and add extra tabs and label them to break down your trading tasks into simple actions.
 

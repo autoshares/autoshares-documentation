@@ -6,7 +6,7 @@ description: Perform two-factor authentication in Autoshares Trader
 
 ## Overview
 
-All API requests in Autoshares Trader require a unique authentication token that must be provided in the request header. Without this token, it's impossible to place orders, retrieve charts, create users, etc. To get the token, use the following API endpoint:
+All API requests in Autoshares WebTrader requires a unique authentication token that must be provided in the request header. Without this token, it's impossible to place orders, retrieve charts, create users, etc. To get the token, use the following API endpoint:
 
 ```text
 POST APIBaseURL + /token

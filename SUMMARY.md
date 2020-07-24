@@ -1,11 +1,11 @@
 # Table of contents
 
-* [What is Autoshares Trader?](README.md)
+* [What is AutoShares?](README.md)
 
 ## User guide
 
 * [Introduction](user-guide/introduction.md)
-* [Autoshares Trader Web](user-guide/web-terminal/README.md)
+* [Web Trader](user-guide/web-terminal/README.md)
   * [Getting Started](user-guide/web-terminal/getting-started.md)
   * [Platform Layout](user-guide/web-terminal/platform-layout.md)
   * [User Widgets](user-guide/web-terminal/user-widgets/README.md)
@@ -25,14 +25,14 @@
     * [Market Depth](user-guide/web-terminal/user-widgets/market-depth.md)
     * [Options](user-guide/web-terminal/user-widgets/options.md)
     * [Hotkeys](user-guide/web-terminal/user-widgets/hotkeys.md)
-* [Autoshares Digital Advisor](user-guide/digital-advisor/README.md)
+* [Digital Advisor](user-guide/digital-advisor/README.md)
   * [Getting Started](user-guide/digital-advisor/getting-started.md)
   * [Selecting an Investment Model](user-guide/digital-advisor/selecting-an-investment-model.md)
   * [Portfolio Tab](user-guide/digital-advisor/portfolio-tab.md)
   * [Trading Tab](user-guide/digital-advisor/trading-tab.md)
   * [Activity Tab](user-guide/digital-advisor/activity-tab.md)
   * [Funding Tab](user-guide/digital-advisor/funding-tab.md)
-* [Autoshares Trader for iOS](user-guide/etna-trader-for-ios/README.md)
+* [WebTrader for iOS](user-guide/etna-trader-for-ios/README.md)
   * [Getting Started](user-guide/etna-trader-for-ios/getting-started.md)
   * [App Layout](user-guide/etna-trader-for-ios/app-layout.md)
   * [Watchlist & Quotes View](user-guide/etna-trader-for-ios/quotes-view/README.md)
@@ -44,7 +44,7 @@
   * [Price Alerts View](user-guide/etna-trader-for-ios/price-alerts-view.md)
   * [Account View](user-guide/etna-trader-for-ios/account-view.md)
   * [Apple Watch Extension](user-guide/etna-trader-for-ios/apple-watch-extension.md)
-* [Autoshares Trader for Android](user-guide/etna-trader-for-android/README.md)
+* [WebTrader for Android](user-guide/etna-trader-for-android/README.md)
   * [Getting Started](user-guide/etna-trader-for-android/getting-started.md)
   * [App Layout](user-guide/etna-trader-for-android/app-layout.md)
   * [Watchlist & Quote View](user-guide/etna-trader-for-android/watchlist-and-quote-view/README.md)

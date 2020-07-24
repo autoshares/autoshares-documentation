@@ -6,11 +6,11 @@ description: Learn how to place a trade for options in Autoshares Trader for iOS
 
 ## Introduction
 
-Autoshares Trader provides comprehensive options trading functionality in both [Autoshares Trader Web](../../../web-terminal/user-widgets/options.md) and Autoshares Trader for iOS. This article delves deeper into the iOS app and demonstrates how you can use it to trade options, enter into complex strategies, track and analyze your profit and loss statements, and so forth.
+Web Trader provides comprehensive options trading functionality in both [Autoshares Trader Web](../../../web-terminal/user-widgets/options.md) and Autoshares Web Trader for iOS. This article delves deeper into the iOS app and demonstrates how you can use it to trade options, enter into complex strategies, track and analyze your profit and loss statements, and so forth.
 
-## Trading Options in Autoshares Trader for iOS
+## Trading Options in AutoShares Web Trader for iOS
 
-To trade options in Autoshares Trader for iOS, launch the app and navigate to the **Quotes** tab. This tab displays all watchlists of your trading account along with their corresponding securities. Next, select the required watchlist, locate the security on which you're attempting to trade options, and then tap on it.
+To trade options in AutoShares Web Trader for iOS, launch the app and navigate to the **Quotes** tab. This tab displays all watchlists of your trading account along with their corresponding securities. Next, select the required watchlist, locate the security on which you're attempting to trade options, and then tap on it.
 
 ![](../../../../.gitbook/assets/img_aac67f04cfa1-1_iphonexspacegrey_portrait.png)
 

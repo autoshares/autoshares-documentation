@@ -6,7 +6,7 @@ description: 'Track your positions, orders, and account balances on the Apple Wa
 
 ## Introduction
 
-Autoshares Trader for iOS comes with an Apple Watch extension that enables traders to swiftly glance at their positions and orders as well as analyze the positions' current profit and loss. This extension does not need to be installed separately from the App Store; rather, once you have installed Autoshares Trader to your iPhone or iPad, the Apple Watch extension will automatically be installed as well. However, if for some reason it's not installed, you can open the Apple Watch app on your device, scroll down to the Available Apps section, locate Autoshares Trader, and then tap **Install**.
+Autoshares Web Trader for iOS comes with an Apple Watch extension that enables traders to swiftly glance at their positions and orders as well as analyze the positions' current profit and loss. This extension does not need to be installed separately from the App Store; rather, once you have installed Autoshares Web Trader to your iPhone or iPad, the Apple Watch extension will automatically be installed as well. However, if for some reason it's not installed, you can open the Apple Watch app on your device, scroll down to the Available Apps section, locate Autoshares Web Trader, and then tap **Install**.
 
 ![](../../.gitbook/assets/img_c1bd75c038f4-1_iphonexspacegrey_portrait.png)
 

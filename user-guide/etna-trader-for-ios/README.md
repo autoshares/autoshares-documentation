@@ -1,2 +1,2 @@
-# Autoshares Trader for iOS
+# WebTrader for iOS
 

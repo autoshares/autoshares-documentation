@@ -6,7 +6,7 @@ description: 'Track active, filled, and cancelled orders.'
 
 ## Introduction
 
-The third tab of Autoshares Trader for iOS — **Orders** — is responsible for displaying the list of current orders of the current trading account: outstanding orders, filled orders, rejected, orders, etc. Here you can quickly inspect which of your orders have already been filled and which ones are under review or were rejected.
+The third tab of Autoshares Web Trader for iOS — **Orders** — is responsible for displaying the list of current orders of the current trading account: outstanding orders, filled orders, rejected, orders, etc. Here you can quickly inspect which of your orders have already been filled and which ones are under review or were rejected.
 
 {% hint style="info" %}
 The number of the trading account is displayed in the navigation bar under the _Orders_ label.

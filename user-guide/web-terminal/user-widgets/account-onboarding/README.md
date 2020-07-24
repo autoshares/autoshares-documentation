@@ -6,11 +6,11 @@ description: Learn how to open new trading accounts in Autoshares Trader
 
 ## Introduction
 
-Autoshares Trader offers native trading account onboarding for all traders. After a trader performs initial sign-up, they're immediately prompted to open a new trading account. During the process, the trader fills out all of the necessary information about their identity, employment, liquid net worth, affiliation with corporate entities, and so forth. Afterward, the filled out form is sent to the clearing firm that might either approve or reject the account opening request. If the request is approved, the trader might proceed to deposit funds into their trading account and then start placing trades.
+Web Trader offers native trading account onboarding for all traders. After a trader performs initial sign-up, they're immediately prompted to open a new trading account. During the process, the trader fills out all of the necessary information about their identity, employment, liquid net worth, affiliation with corporate entities, and so forth. Afterward, the filled out form is sent to the clearing firm that might either approve or reject the account opening request. If the request is approved, the trader might proceed to deposit funds into their trading account and then start placing trades.
 
 ## Opening a New Trading Account
 
-Once a trader has signed up for Autoshares Trader, they will be immediately re-directed to Autoshares Trader Web without having an active trading account \(which will be indicated in the header\). To create a new account, they should click **Add Account**. If they already have an account, they should expand the list of accounts and click **Edit**.
+Once a trader has signed up for Web Trader, they will be immediately re-directed to Web Trader without having an active trading account \(which will be indicated in the header\). To create a new account, they should click **Add Account**. If they already have an account, they should expand the list of accounts and click **Edit**.
 
 ![](../../../../.gitbook/assets/screenshot-2020-03-04-at-15.43.21.png)
 

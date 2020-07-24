@@ -5,5 +5,5 @@ description: >-
   dashboards and design widgets.
 ---
 
-# Autoshares Trader Web
+# Web Trader
 

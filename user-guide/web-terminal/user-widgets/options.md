@@ -1,10 +1,10 @@
 # Options
 
-## Trading Options in Autoshares Trader
+## Trading Options in Web Trader
 
 Option is a contract in which a party that owns the option has the right \(but not obligation\) to purchase \(Call\) or sell \(Put\) a specific asset at a pre-defined \(strike\) price within a specific time frame. The counter party in this transaction is the writer of the option that in exchange for a premium agreed to purchase or sell the asset. Both the writer and the owner of the option make opposite bets on the price of the underlying asset: if its market price is better than the strike price, the owner of the option realizes a profit; if the strike price is better, the writer of the options realizes a profit.
 
-Autoshares Trader features powerful option trading functionality that enables traders to buy and sell call and put options as well as enter into complex strategies. By default, all widgets related to options trading are available on the **Options** tab of Autoshares Trader's Web Terminal.
+Web Trader features powerful option trading functionality that enables traders to buy and sell call and put options as well as enter into complex strategies. By default, all widgets related to options trading are available on the **Options** tab of Web Trader's Web Terminal.
 
 ![](../../../.gitbook/assets/screenshot-2020-03-20-at-20.34.44.png)
 
@@ -178,13 +178,9 @@ Once the order is filled, it can be inspected from the **Orders** widget and the
 
 ![](../../../.gitbook/assets/screenshot-2020-03-20-at-21.23.40.png)
 
-### Options Trading in Autoshares Trader for iOS:
+### Options Trading in Web Trader for iOS:
 
 {% page-ref page="../../etna-trader-for-ios/quotes-view/trade-view/options-trading.md" %}
 
-## Video Overview
 
-Feel free to watch our video overview that demonstrates how to trade options in Autoshares Trader Web as well as in our mobile apps:
-
-{% embed url="https://www.youtube.com/watch?v=POJAl2lnpg8&t=380s" caption="" %}
 

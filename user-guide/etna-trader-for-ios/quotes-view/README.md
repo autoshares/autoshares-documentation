@@ -6,7 +6,7 @@ description: 'Manage watchlists, view quotes, place trades'
 
 ## Watchlist
 
-The first tab of Autoshares Trader for iOS represents the **Watchlist** view which displays the current quotes for securities of a specific watchlist. The quotes are displayed in blocks — two per row — along with mini charts and the ticker symbol of the security.
+The first tab of Web Trader for iOS represents the **Watchlist** view which displays the current quotes for securities of a specific watchlist. The quotes are displayed in blocks — two per row — along with mini charts and the ticker symbol of the security.
 
 ![](../../../.gitbook/assets/img_0016_iphonexspacegrey_portrait.png)
 

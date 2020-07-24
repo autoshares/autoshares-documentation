@@ -6,7 +6,7 @@ description: Download the app from the App Store and sign up
 
 ## Introduction
 
-Autoshares Trader for iOS serves as an extension of Autoshares Trader Web and provides similar functionality, including:
+Web Trader for iOS serves as an extension of Autoshares Web Trader and provides similar functionality, including:
 
 1. Placing orders;
 2. Examining the profit and loss figures for open positions;
@@ -15,21 +15,15 @@ Autoshares Trader for iOS serves as an extension of Autoshares Trader Web and pr
 5. Analyzing charts;
 6. Exploring the market depth of various securities.
 
-To take a quick look at Autoshares Trader for iOS in action, feel free to watch our vide overview of the app:
+## Downloading AutoShares Web Trader for iOS
 
-{% embed url="https://www.youtube.com/watch?v=mypMwSeuYl4&t=2s" caption="" %}
-
-## Downloading Autoshares Trader for iOS
-
-Autoshares Trader for iOS is available on the [App Store](https://itunes.apple.com/us/app/etna-trader/id658778917?mt=8) for both iPhone and iPad. It also features an extension for the Apple Watch that enables users to track their positions, profit and loss figures, account information, etc.
+Autoshares Web Trader for iOS is available on the [App Store](https://itunes.apple.com/us/app/autoshares-webtrader/id1205897919?mt=8) for both iPhone and iPad. It also features an extension for the Apple Watch that enables users to track their positions, profit and loss figures, account information, etc.
 
 ![](../../.gitbook/assets/img_4eaf831e2b67-1-2_iphonexspacegrey_portrait.png)
 
 ## Signing Up
 
-After you've downloaded the app, launch the app and tap on **Sign up**. if you've already signed up in Autoshares Trader Web, you can use those credentials to log into the mobile app.
-
-![](../../.gitbook/assets/img_0007_iphonexspacegrey_portrait.png)
+After you've downloaded the app, launch the app and tap on **Sign up**. if you've already signed up in AutoShares Web Trader, you can use those credentials to log into the mobile app.
 
 On the sign-up window, proceed to specify your information:
 

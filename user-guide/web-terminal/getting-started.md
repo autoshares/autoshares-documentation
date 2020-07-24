@@ -1,12 +1,12 @@
 ---
-description: Opening an account in Autoshares Trader
+description: Opening an account in Autoshares Web Trader
 ---
 
 # Getting Started
 
 ## Registration Form
 
-The first step in getting started with Autoshares Trader is to register as as new user. In order to do that, quickly fill out out the following online form:
+The first step in getting started with Autoshares Web Trader is to register as as new user. In order to do that, quickly fill out out the following online form:
 
 ![](../../.gitbook/assets/screenshot-2020-03-19-at-16.57.06.png)
 
@@ -44,8 +44,6 @@ It is possible to add additional languages. If you are interested in adding a ne
 ## Registration Confirmation
 
 Once you complete and submit your online registration form, you will receive an email message confirming the successful completion of your registration. This note will also contain links to Tech Support and other useful information. Please save this message as you may want to use this information later.
-
-![](../../.gitbook/assets/screenshot-2020-03-19-at-16.58.57.png)
 
 Press "**Click here to start using Autoshares Trader** " and you will be re-directed to the web trader dashboard.
 

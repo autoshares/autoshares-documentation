@@ -1,2 +1,2 @@
-# Autoshares Trader for Android
+# WebTrader for Android
 
