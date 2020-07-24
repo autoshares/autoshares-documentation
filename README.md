@@ -4,7 +4,7 @@ description: 'Details on AutoShares platform, its components, features and more.
 
 # What is AutoShares?
 
-Autoshares offers an all-in-one front to back office solution for fintech companies, financial advisors, financial firms, and developers to integrate to and build apps for financial apps and online investing. AutoShares offers custody accounts and white label solutions to Fintech firms and financial services businesses.
+Autoshares offers an all-in-one front to back office solution for fintech companies, financial advisors, financial firms, and developers to integrate to and build financial apps and online investing. AutoShares offers custody accounts and white label solutions to Fintech firms and financial services businesses.
 
 Autoshares platform consists of several components: web trader, mobile trading applications for iOS and Android, OMS with middle and back office, and  APIs.
 
