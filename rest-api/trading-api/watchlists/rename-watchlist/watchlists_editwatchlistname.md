@@ -15,9 +15,9 @@ This API endpoint enables you to rename an existing watchlist
 | Type | Name | Description | Schema | Default |
 | :--- | :--- | :--- | :--- | :--- |
 | **Header** | **Authorization**   _required_ | This is the authorization token that you retrieved from the first endpoint \(/token\). | string |  |
-| **Header** | **Et-App-Key**   _required_ | This is your app’s unique key that can be retrieved from the BO Companies widget in ETNA Trader. | string |  |
+| **Header** | **Et-App-Key**   _required_ | This is your app’s unique key that can be retrieved from the BO Companies widget in Autoshares Trader. | string |  |
 | **Path** | **userId**   _required_ | This is the internal identifier of the user whose watchlist needs to be renamed. | integer \(int32\) |  |
-| **Path** | **version**   _required_ | This is the version of the API. Unless you have multiple versions of ETNA Trader’s API deployed in your environment, leave it at 1.0. | string | `"1"` |
+| **Path** | **version**   _required_ | This is the version of the API. Unless you have multiple versions of Autoshares Trader’s API deployed in your environment, leave it at 1.0. | string | `"1"` |
 | **Path** | **watchlistId**   _required_ | This is the internal identifier of the watchlist that must be renamed. | integer \(int32\) |  |
 | **Query** | **name**   _required_ | This is the new name of the modified watchlist. | string |  |
 

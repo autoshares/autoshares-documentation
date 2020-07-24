@@ -13,7 +13,7 @@ There are four required parameters that must be provided in the request:
 1. **Et-App-Key** \(header\). This is the unique key of your app that identifies your app when communicating with our service. Contact your administrator to get this key.
 2. **Authorization** \(header\). This is the authorization token from the very first [token request](../authentication/).
 3. **API version** \(path\). Unless necessary, leave it at "1.0".
-4. **accountId** \(path\). This is the [internal identifier](../user-accounts/list-users-accounts/) of the trading account in ETNA Trader.
+4. **accountId** \(path\). This is the [internal identifier](../user-accounts/list-users-accounts/) of the trading account in Autoshares Trader.
 
 Here's the final template for this API request:
 
@@ -44,8 +44,8 @@ where:
 
 | Parameter | Description |
 | :--- | :--- |
-| Id | This is the internal identifier of the default ACH relationship in ETNA Trader. |
-| AccountId | This is an ETNA Trader's trading account to which the ACH relationship. |
+| Id | This is the internal identifier of the default ACH relationship in Autoshares Trader. |
+| AccountId | This is an Autoshares Trader's trading account to which the ACH relationship. |
 | RoutingNumber | This is the routing number of the bank who opened the banking account. You can view sample routing number on [this page](https://bankorganizer.com/list-of-routing-numbers/#bank-of-america). |
 | AccountNumber | This is the number of the banking account in the target bank. For example: **987654321222**. |
 | AccountOwnerName | This is the name of the banking account owner. For example: **Robert**. |

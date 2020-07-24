@@ -1,12 +1,12 @@
 ---
-description: Learn about the design of ETNA Trader for Android
+description: Learn about the design of Autoshares Trader for Android
 ---
 
 # App Layout
 
 ## Introduction
 
-Once you launch ETNA Trader for Android, you'll notice that the app's layout represents five tabs, each tab displaying a separate screen with its own purpose. The list of tabs in the bar is as follows:
+Once you launch Autoshares Trader for Android, you'll notice that the app's layout represents five tabs, each tab displaying a separate screen with its own purpose. The list of tabs in the bar is as follows:
 
 1. **Quotes**. This screen displays the current \(or the closing price\) price for securities in a specific watchlist. 
 2. **Positions**. This screens displays the trader's current positions.

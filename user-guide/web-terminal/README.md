@@ -5,5 +5,5 @@ description: >-
   dashboards and design widgets.
 ---
 
-# ETNA Trader Web
+# Autoshares Trader Web
 

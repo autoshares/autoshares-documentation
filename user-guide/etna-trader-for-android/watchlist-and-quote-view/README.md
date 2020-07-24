@@ -2,7 +2,7 @@
 
 ## Quotes Tab
 
-The first tab of ETNA Trader for Android represents the **Quotes** view which displays the current quotes for securities of a specific watchlist. The quotes are displayed in blocks — two per row — along with mini charts and the ticker symbol of the security.
+The first tab of Autoshares Trader for Android represents the **Quotes** view which displays the current quotes for securities of a specific watchlist. The quotes are displayed in blocks — two per row — along with mini charts and the ticker symbol of the security.
 
 ![](../../../.gitbook/assets/screenshot_2020-04-28-21-48-09-797_com.etnasoft.etnamobile.android.jpg)
 

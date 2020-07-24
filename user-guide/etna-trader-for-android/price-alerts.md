@@ -1,5 +1,5 @@
 ---
-description: Learn how to manage price alerts in ETNA Trader for Android
+description: Learn how to manage price alerts in Autoshares Trader for Android
 ---
 
 # Price Alerts

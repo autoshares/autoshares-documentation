@@ -1,2 +1,2 @@
-# ETNA Trader for Android
+# Autoshares Trader for Android
 

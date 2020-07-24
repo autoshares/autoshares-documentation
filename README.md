@@ -1,16 +1,16 @@
 ---
 description: >-
-  Details on ETNA Trader Suite of applications for online broker-dealers
+  Details on Autoshares Trader Suite of applications for online broker-dealers
   describing its components, features and more.
 ---
 
-# What is ETNA Trader?
+# What is Autoshares Trader?
 
-ETNA Trader Suite of Applications is a white label web trading platform for online broker-dealers. ETNA Trader is an all-in-one front to back office solution for online brokers
+Autoshares Trader Suite of Applications is a white label web trading platform for online broker-dealers. Autoshares Trader is an all-in-one front to back office solution for online brokers
 
-ETNA Trader consists of several components: web trader, mobile trading applications for iOS and Android, OMS with middle and back office and trading APIs.
+Autoshares Trader consists of several components: web trader, mobile trading applications for iOS and Android, OMS with middle and back office and trading APIs.
 
-ETNA Trader can be used as a whole turn key trading suite for running an online broker-dealer business, or certain components can be private labeled separately such as: web trader, mobile applications, trading API or broker back office with OMS.
+Autoshares Trader can be used as a whole turn key trading suite for running an online broker-dealer business, or certain components can be private labeled separately such as: web trader, mobile applications, trading API or broker back office with OMS.
 
 Features include:
 

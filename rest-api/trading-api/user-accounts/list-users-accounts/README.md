@@ -45,7 +45,7 @@ where:
 
 | Parameter | Description |
 | :--- | :--- |
-| Id | This is the internal ID of the trading account in ETNA Trader. |
+| Id | This is the internal ID of the trading account in Autoshares Trader. |
 | ClearingAccount | This is the internal number of the trading account |
 | AccessType | This is the access type of the account. Possible values: 0 \(Full\), 1 \(Read Only\), \(Close Positions Only\). |
 | MarginType | This is the account type. Possible values: Full, Margin, DayTrader. |
@@ -66,7 +66,7 @@ If you specify the wrong Et-App-Key parameter or fail to include it in the heade
 
 ### Specifying the Regular User ID Instead of the Internal One
 
-Another common mistake when making this request is specifying the regular user ID instead of the internal ETNA Trader ID. Doing so will result in the 400 status code and the following error message:
+Another common mistake when making this request is specifying the regular user ID instead of the internal Autoshares Trader ID. Doing so will result in the 400 status code and the following error message:
 
 ```javascript
 {

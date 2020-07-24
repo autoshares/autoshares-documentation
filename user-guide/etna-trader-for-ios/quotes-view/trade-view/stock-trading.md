@@ -6,7 +6,7 @@ description: Learn how to place a trade for stocks
 
 ## Introduction
 
-To place a new order transacting a stock in ETNA Trader for iOS, tap on any security in the **Quotes** view and then tap the **Trade** button in the top-right corner. This will prompt the trade view where you will proceed to specify the details of the new transaction.
+To place a new order transacting a stock in Autoshares Trader for iOS, tap on any security in the **Quotes** view and then tap the **Trade** button in the top-right corner. This will prompt the trade view where you will proceed to specify the details of the new transaction.
 
 ![](../../../../.gitbook/assets/img_ff96693f5a2f-1_iphonexspacegrey_portrait%20%281%29.png)
 
@@ -39,7 +39,7 @@ After the order has been successfully placed, you can observe the status of the 
 
 ## Orders on the Apple Watch
 
-ETNA Trader for iOS features a companion Apple Watch extension that enables traders to conveniently track the status of their orders right from the wrist.
+Autoshares Trader for iOS features a companion Apple Watch extension that enables traders to conveniently track the status of their orders right from the wrist.
 
 ![](../../../../.gitbook/assets/silver-white-band-5.png)
 

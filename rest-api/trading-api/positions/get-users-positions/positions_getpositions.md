@@ -15,9 +15,9 @@ This API endpoint enables you to retrieve all outstanding positions of a particu
 | Type | Name | Description | Schema | Default |
 | :--- | :--- | :--- | :--- | :--- |
 | **Header** | **Authorization**   _required_ | This is the authorization token that you retrieved from the first endpoint \(/token\). | string |  |
-| **Header** | **Et-App-Key**   _required_ | This is your app’s unique key that can be retrieved from the BO Companies widget in ETNA Trader. | string |  |
+| **Header** | **Et-App-Key**   _required_ | This is your app’s unique key that can be retrieved from the BO Companies widget in Autoshares Trader. | string |  |
 | **Path** | **accountId**   _required_ | This is the unique identifier of the trading account whose outstanding positions need to be retrieved. | integer \(int32\) |  |
-| **Path** | **version**   _required_ | This is the version of the API. Unless you have multiple versions of ETNA Trader’s API deployed in your environment, leave it at 1.0. | string | `"1"` |
+| **Path** | **version**   _required_ | This is the version of the API. Unless you have multiple versions of Autoshares Trader’s API deployed in your environment, leave it at 1.0. | string | `"1"` |
 | **Query** | **desc**   _required_ | Is descendant | boolean |  |
 | **Query** | **filter**   _optional_ | Positions filter query | string \(String\) |  |
 | **Query** | **pageNumber**   _required_ | Page number | integer \(int32\) |  |

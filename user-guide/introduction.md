@@ -2,7 +2,7 @@
 
 ## Overview
 
-This sections covers basics of working with ETNA Trader Web Trading Platform:
+This sections covers basics of working with Autoshares Trader Web Trading Platform:
 
 1. How to register?
 2. How to change a password?
@@ -11,7 +11,7 @@ This sections covers basics of working with ETNA Trader Web Trading Platform:
 5. How to set up a price alert?
 6. How do I get help? 
 
-This User Guide sets forth the procedures and descriptions of how to use ETNA Trader, starting from the sign up process all the way to complex trading activities.
+This User Guide sets forth the procedures and descriptions of how to use Autoshares Trader, starting from the sign up process all the way to complex trading activities.
 
 This document:
 
@@ -26,11 +26,11 @@ Separate sections are designated for all components of the platform:
 
 {% page-ref page="web-terminal/" %}
 
-* ETNA Trader for iOS \(including the extension for the Apple Watch\):
+* Autoshares Trader for iOS \(including the extension for the Apple Watch\):
 
 {% page-ref page="etna-trader-for-ios/" %}
 
-* ETNA Trader for Android:
+* Autoshares Trader for Android:
 
 {% hint style="info" %}
 Information provided in this user guide regarding the software or functionality of the Trading Platform, including descriptions and illustrations \(i.e. screenshots\), are subject to change by ETNA.

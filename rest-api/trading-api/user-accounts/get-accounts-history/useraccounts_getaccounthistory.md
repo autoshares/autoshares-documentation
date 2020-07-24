@@ -15,9 +15,9 @@ This API endpoint returns the historical value of a particular trading account t
 | Type | Name | Description | Schema | Default |
 | :--- | :--- | :--- | :--- | :--- |
 | **Header** | **Authorization**   _required_ | This is the authorization token that you retrieved from the first endpoint \(/token\). | string |  |
-| **Header** | **Et-App-Key**   _required_ | This is your app’s unique key that can be retrieved from the BO Companies widget in ETNA Trader. | string |  |
-| **Path** | **accountId**   _required_ | This is the unique identifier of the trading account in ETNA Trader.This is the unique identifier of the trading account in ETNA Trader. | integer \(int32\) |  |
-| **Path** | **version**   _required_ | This is the version of the API. Unless you have multiple versions of ETNA Trader’s API deployed in your environment, leave it at 1.0. | string | `"1"` |
+| **Header** | **Et-App-Key**   _required_ | This is your app’s unique key that can be retrieved from the BO Companies widget in Autoshares Trader. | string |  |
+| **Path** | **accountId**   _required_ | This is the unique identifier of the trading account in Autoshares Trader.This is the unique identifier of the trading account in Autoshares Trader. | integer \(int32\) |  |
+| **Path** | **version**   _required_ | This is the version of the API. Unless you have multiple versions of Autoshares Trader’s API deployed in your environment, leave it at 1.0. | string | `"1"` |
 | **Query** | **endDate**   _required_ | The end of the target period \(in UTC ticks\). | string \(date-time\) |  |
 | **Query** | **startDate**   _required_ | The start of the target period \(in UTC ticks\). | string \(date-time\) |  |
 | **Query** | **step**   _required_ | Obsolete. | integer \(int32\) |  |

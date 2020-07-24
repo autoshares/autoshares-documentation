@@ -1,5 +1,5 @@
 ---
-description: Get a user's information with ETNA Trader API
+description: Get a user's information with Autoshares Trader API
 ---
 
 # Managing Users

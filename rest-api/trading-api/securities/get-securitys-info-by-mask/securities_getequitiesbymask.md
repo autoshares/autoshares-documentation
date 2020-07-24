@@ -15,8 +15,8 @@ This API endpoint enables you to retrieve a list of securities with a certain pa
 | Type | Name | Description | Schema | Default |
 | :--- | :--- | :--- | :--- | :--- |
 | **Header** | **Authorization**   _required_ | This is the authorization token that you retrieved from the first endpoint \(/token\). | string |  |
-| **Header** | **Et-App-Key**   _required_ | This is your app’s unique key that can be retrieved from the BO Companies widget in ETNA Trader. | string |  |
-| **Path** | **version**   _required_ | This is the version of the API. Unless you have multiple versions of ETNA Trader’s API deployed in your environment, leave it at 1.0. | string | `"1"` |
+| **Header** | **Et-App-Key**   _required_ | This is your app’s unique key that can be retrieved from the BO Companies widget in Autoshares Trader. | string |  |
+| **Path** | **version**   _required_ | This is the version of the API. Unless you have multiple versions of Autoshares Trader’s API deployed in your environment, leave it at 1.0. | string | `"1"` |
 | **Query** | **count**   _required_ | This is the maximum number of equities that should be retrieved. | integer \(int32\) |  |
 | **Query** | **mask**   _required_ | This is the target keyword that will be searched for in all equities' symbol, exchange, and description fields. | string |  |
 

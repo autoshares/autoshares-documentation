@@ -1,2 +1,2 @@
-# ETNA Trader for iOS
+# Autoshares Trader for iOS
 

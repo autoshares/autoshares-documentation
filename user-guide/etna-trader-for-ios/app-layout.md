@@ -1,12 +1,12 @@
 ---
-description: Learn about the design of ETNA Trader for iOS
+description: Learn about the design of Autoshares Trader for iOS
 ---
 
 # App Layout
 
 ## Introduction
 
-Once you launch ETNA Trader for iOS, you'll notice that the app's layout is based on a five-tab bar, each tab containing a separate screen with its own purpose. The list of tabs in the bar is as follows:
+Once you launch Autoshares Trader for iOS, you'll notice that the app's layout is based on a five-tab bar, each tab containing a separate screen with its own purpose. The list of tabs in the bar is as follows:
 
 1. **Quotes**. This screen displays the current \(or the closing price\) price for securities in a specific watchlist. 
 2. **Positions**. This screens displays the trader's current positions.

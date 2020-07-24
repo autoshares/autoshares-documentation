@@ -6,7 +6,7 @@ description: Download the app from the App Store and sign up
 
 ## Introduction
 
-ETNA Trader for iOS serves as an extension of ETNA Trader Web and provides similar functionality, including:
+Autoshares Trader for iOS serves as an extension of Autoshares Trader Web and provides similar functionality, including:
 
 1. Placing orders;
 2. Examining the profit and loss figures for open positions;
@@ -15,19 +15,19 @@ ETNA Trader for iOS serves as an extension of ETNA Trader Web and provides simil
 5. Analyzing charts;
 6. Exploring the market depth of various securities.
 
-To take a quick look at ETNA Trader for iOS in action, feel free to watch our vide overview of the app:
+To take a quick look at Autoshares Trader for iOS in action, feel free to watch our vide overview of the app:
 
 {% embed url="https://www.youtube.com/watch?v=mypMwSeuYl4&t=2s" caption="" %}
 
-## Downloading ETNA Trader for iOS
+## Downloading Autoshares Trader for iOS
 
-ETNA Trader for iOS is available on the [App Store](https://itunes.apple.com/us/app/etna-trader/id658778917?mt=8) for both iPhone and iPad. It also features an extension for the Apple Watch that enables users to track their positions, profit and loss figures, account information, etc.
+Autoshares Trader for iOS is available on the [App Store](https://itunes.apple.com/us/app/etna-trader/id658778917?mt=8) for both iPhone and iPad. It also features an extension for the Apple Watch that enables users to track their positions, profit and loss figures, account information, etc.
 
 ![](../../.gitbook/assets/img_4eaf831e2b67-1-2_iphonexspacegrey_portrait.png)
 
 ## Signing Up
 
-After you've downloaded the app, launch the app and tap on **Sign up**. if you've already signed up in ETNA Trader Web, you can use those credentials to log into the mobile app.
+After you've downloaded the app, launch the app and tap on **Sign up**. if you've already signed up in Autoshares Trader Web, you can use those credentials to log into the mobile app.
 
 ![](../../.gitbook/assets/img_0007_iphonexspacegrey_portrait.png)
 

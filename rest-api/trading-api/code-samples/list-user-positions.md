@@ -79,7 +79,7 @@ for accountJson in accounts:
     print(positions)
 ```
 
-This method — `getUsersPositions()` — enables you to retrieve the list positions opened on a specific account in ETNA Trader. The ID of the enquired account must be specified in the base URL. In response to this request, you'll receive a JSON file with the list of currently open positions.
+This method — `getUsersPositions()` — enables you to retrieve the list positions opened on a specific account in Autoshares Trader. The ID of the enquired account must be specified in the base URL. In response to this request, you'll receive a JSON file with the list of currently open positions.
 {% endtab %}
 {% endtabs %}
 

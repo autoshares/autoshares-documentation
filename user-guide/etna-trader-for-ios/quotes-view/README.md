@@ -6,7 +6,7 @@ description: 'Manage watchlists, view quotes, place trades'
 
 ## Watchlist
 
-The first tab of ETNA Trader for iOS represents the **Watchlist** view which displays the current quotes for securities of a specific watchlist. The quotes are displayed in blocks — two per row — along with mini charts and the ticker symbol of the security.
+The first tab of Autoshares Trader for iOS represents the **Watchlist** view which displays the current quotes for securities of a specific watchlist. The quotes are displayed in blocks — two per row — along with mini charts and the ticker symbol of the security.
 
 ![](../../../.gitbook/assets/img_0016_iphonexspacegrey_portrait.png)
 
@@ -40,7 +40,7 @@ The chart is displayed right under the bid/ask prices. You can rotate your devic
 
 ![](../../../.gitbook/assets/img_0039_iphonexspacegrey_landscape.png)
 
-In addition to the standard candle mode, ETNA Trader for iOS offers four other chart modes:
+In addition to the standard candle mode, Autoshares Trader for iOS offers four other chart modes:
 
 {% tabs %}
 {% tab title="\#1" %}

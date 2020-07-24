@@ -1,12 +1,12 @@
 ---
-description: Perform regular authentication in ETNA Trader
+description: Perform regular authentication in Autoshares Trader
 ---
 
 # Single-Factor Authentication
 
 ## Overview
 
-All API requests in ETNA Trader require a unique authentication token that must be provided in the request header. Without this token, it's impossible to place orders, retrieve charts, create users, etc. To get the token, use the following API endpoint:
+All API requests in Autoshares Trader require a unique authentication token that must be provided in the request header. Without this token, it's impossible to place orders, retrieve charts, create users, etc. To get the token, use the following API endpoint:
 
 ```text
 POST APIBaseURL + /token
