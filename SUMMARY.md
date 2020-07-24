@@ -44,7 +44,7 @@
   * [Price Alerts View](user-guide/etna-trader-for-ios/price-alerts-view.md)
   * [Account View](user-guide/etna-trader-for-ios/account-view.md)
   * [Apple Watch Extension](user-guide/etna-trader-for-ios/apple-watch-extension.md)
-* [WebTrader for Android](user-guide/etna-trader-for-android/README.md)
+* [Web Trader for Android](user-guide/etna-trader-for-android/README.md)
   * [Getting Started](user-guide/etna-trader-for-android/getting-started.md)
   * [App Layout](user-guide/etna-trader-for-android/app-layout.md)
   * [Watchlist & Quote View](user-guide/etna-trader-for-android/watchlist-and-quote-view/README.md)

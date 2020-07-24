@@ -1,2 +1,2 @@
-# WebTrader for Android
+# Web Trader for Android
 
