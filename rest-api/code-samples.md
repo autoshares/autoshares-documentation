@@ -1,5 +1,5 @@
 ---
-description: Explore examples of code that leverages ETNA API requests
+description: Explore examples of code that leverages Autoshares API requests
 ---
 
 # Code Samples

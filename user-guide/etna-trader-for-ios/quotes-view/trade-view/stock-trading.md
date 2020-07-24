@@ -25,7 +25,7 @@ Once you've tapped Trade, you will be prompted with the order configuration view
 
 ![](../../../../.gitbook/assets/img_2b534b44cb96-1_iphonexspacegrey_portrait.png)
 
-Once the order is fully configured, tap **Verify Order**. The order will be sent to ETNA's verification service to ensure that the new order complies with different validation rules and is properly configured. Tap **Place**.
+Once the order is fully configured, tap **Verify Order**. The order will be sent to Autoshares' verification service to ensure that the new order complies with different validation rules and is properly configured. Tap **Place**.
 
 ![](../../../../.gitbook/assets/img_989001a15890-1_iphonexspacegrey_portrait.png)
 

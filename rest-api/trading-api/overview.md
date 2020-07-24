@@ -1,5 +1,5 @@
 ---
-description: Get started with ETNA Trading API
+description: Get started with Autoshares Trading API
 ---
 
 # Overview

@@ -33,6 +33,6 @@ Separate sections are designated for all components of the platform:
 * Autoshares Trader for Android:
 
 {% hint style="info" %}
-Information provided in this user guide regarding the software or functionality of the Trading Platform, including descriptions and illustrations \(i.e. screenshots\), are subject to change by ETNA.
+Information provided in this user guide regarding the software or functionality of the Trading Platform, including descriptions and illustrations \(i.e. screenshots\), are subject to change by Autoshares.
 {% endhint %}
 
