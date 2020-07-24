@@ -1,5 +1,5 @@
 ---
-description: 'Details on AutoShares platform, its components, features and more.'
+description: 'Details on AutoShares platform, its components, features, and more.'
 ---
 
 # What is AutoShares?
