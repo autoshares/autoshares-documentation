@@ -1,7 +1,7 @@
 ---
 description: >-
-  Learn how to fine-tine Autoshares Trader's settings to ensure the smoothest user
-  experience
+  Learn how to fine-tine Autoshares Trader's settings to ensure the smoothest
+  user experience
 ---
 
 # Tips for Enhancing Performance

@@ -4,7 +4,7 @@ description: >-
   portfolios by using a pre-defined model that quarterly
 ---
 
-# ETNA Digital Advisor
+# Autoshares Digital Advisor
 
 ## Introduction
 

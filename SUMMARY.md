@@ -25,7 +25,7 @@
     * [Market Depth](user-guide/web-terminal/user-widgets/market-depth.md)
     * [Options](user-guide/web-terminal/user-widgets/options.md)
     * [Hotkeys](user-guide/web-terminal/user-widgets/hotkeys.md)
-* [ETNA Digital Advisor](user-guide/digital-advisor/README.md)
+* [Autoshares Digital Advisor](user-guide/digital-advisor/README.md)
   * [Getting Started](user-guide/digital-advisor/getting-started.md)
   * [Selecting an Investment Model](user-guide/digital-advisor/selecting-an-investment-model.md)
   * [Portfolio Tab](user-guide/digital-advisor/portfolio-tab.md)

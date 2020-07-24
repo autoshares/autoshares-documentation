@@ -75,8 +75,8 @@ where:
     </tr>
     <tr>
       <td style="text-align:left">Id</td>
-      <td style="text-align:left">This is the internal ID of the security in Autoshares Trader. You can retrieve
-        this ID with <a href="../../securities/get-securitys-info-by-ticker/">this API endpoint</a>.</td>
+      <td style="text-align:left">This is the internal ID of the security in Autoshares Trader. You can
+        retrieve this ID with <a href="../../securities/get-securitys-info-by-ticker/">this API endpoint</a>.</td>
     </tr>
     <tr>
       <td style="text-align:left">StartDate</td>

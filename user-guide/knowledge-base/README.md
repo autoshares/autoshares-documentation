@@ -1,5 +1,7 @@
 ---
-description: Learn how to troubleshoot the most frequently occurring issues in Autoshares Trader
+description: >-
+  Learn how to troubleshoot the most frequently occurring issues in Autoshares
+  Trader
 ---
 
 # Knowledge Base
