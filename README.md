@@ -27,7 +27,7 @@ Features include:
 
 Find more information about features of Autoshares here: [https://www.etnasoft.com/broker-dealers/](https://www.etnasoft.com/broker-dealers/)
 
-Open a demo account: [http://demo.etnatrader.com/User/UserInformationEntry](http://demo.etnatrader.com/User/UserInformationEntry)
+Open a demo account: [http://demo.autoshares.com/User/UserInformationEntry](http://demo.autoshares.com/User/UserInformationEntry)
 
 Watch a video overview of a web trading platform:
 

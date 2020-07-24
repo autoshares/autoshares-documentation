@@ -103,7 +103,7 @@ Each streamer is accessible through its own separate port in your environment. Q
 
 ### Streamer Configuration
 
-While the current implementation of data streaming includes only several data types that can be retrieved in real-time, Autoshares Trader also provides custom configurations of streamers that build on top of the existing functionality. For example, if you would like to stream positions across several trading accounts or account information across the whole environment, you will need a separate configuration of the streamer. To learn more about the degree to which the default functionality can be extended, contact our [support team](mailto:support@etnatrader.com).
+While the current implementation of data streaming includes only several data types that can be retrieved in real-time, Autoshares Trader also provides custom configurations of streamers that build on top of the existing functionality. For example, if you would like to stream positions across several trading accounts or account information across the whole environment, you will need a separate configuration of the streamer. To learn more about the degree to which the default functionality can be extended, contact our [support team](mailto:support@autoshares.com).
 
 ### Streamer Performance
 

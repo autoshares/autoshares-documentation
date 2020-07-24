@@ -14,7 +14,7 @@ The first step in getting started with Autoshares Trader is to register as as ne
 Parameters marked by a red asterisk are mandatory. Registration form will not be completed without them.
 {% endhint %}
 
-The [demo environment](http://demo.etnatrader.com/User/LogOn?ReturnUrl=%2f) offers simulated trading functionality that entirely replicates real trading, except that no real funds are being risked. If you already created a demo account, just log into the platform by entering your username and password.
+The [demo environment](http://demo.autoshares.com/User/LogOn?ReturnUrl=%2f) offers simulated trading functionality that entirely replicates real trading, except that no real funds are being risked. If you already created a demo account, just log into the platform by entering your username and password.
 
 ## **Contact Support**
 
