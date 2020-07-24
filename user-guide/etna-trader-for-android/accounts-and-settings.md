@@ -6,7 +6,7 @@ description: View trading accounts' information and set global settings
 
 ## Introduction
 
-The last tab of Autoshares Trader for Android is entitled **Account** and it is responsible for displaying various information about your trading accounts as well as configuration of global settings. It also enables you to switch between all of your trading accounts.
+The last tab of Autoshares Web Trader for Android is entitled **Account** and it is responsible for displaying various information about your trading accounts as well as configuration of global settings. It also enables you to switch between all of your trading accounts.
 
 ## Account View
 

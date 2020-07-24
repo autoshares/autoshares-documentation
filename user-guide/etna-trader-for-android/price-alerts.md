@@ -1,5 +1,5 @@
 ---
-description: Learn how to manage price alerts in Autoshares Trader for Android
+description: Learn how to manage price alerts in AutoShares Web Trader for Android
 ---
 
 # Price Alerts
