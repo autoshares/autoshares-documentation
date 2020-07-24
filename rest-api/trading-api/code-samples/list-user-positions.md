@@ -7,7 +7,7 @@
 {% tabs %}
 {% tab title="Python" %}
 ```python
-class EtnaAPIRequest:
+class AutosharesAPIRequest:
 
     baseURL = "https://pub-api-et-demo-prod.etnasoft.us/api/"
     EtAppKey = "Et App Key from the BO Companies widget"
@@ -64,7 +64,7 @@ class EtnaAPIRequest:
             return "No response"
 
 #Performing initial Authentication
-sampleRequest = EtnaAPIRequest()
+sampleRequest = AutosharesAPIRequest()
 sampleRequest.simpleAuth()
 
 #retrieving the user's trading accounts

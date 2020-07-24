@@ -25,7 +25,7 @@ If the request is successful, you'll receive a confirmation message as well as t
 ```python
 import requests
 
-class EtnaAPIRequest:
+class AutosharesAPIRequest:
 
 	baseURL = "https://pub-api-et-demo-prod.etnasoft.us/api/"
 	EtAppKey = "your EtAppKey from the BO Companies widget"
@@ -51,13 +51,13 @@ class EtnaAPIRequest:
 			return "No response"
 			
 #Performing initial Authentication
-sampleRequest = EtnaAPIRequest()
+sampleRequest = AutosharesAPIRequest()
 sampleRequest.initialAuth()
 ```
 {% endcode-tabs-item %}
 {% endcode-tabs %}
 
-In this example, there's a class called `EtnaAPIRequest` that has five properties:
+In this example, there's a class called `AutosharesAPIRequest` that has five properties:
 
 * `baseURL` — this is the URL that hosts your API. Each solution has its own base URL for both the Trader and the Developer API.
 * `EtAppKey` — this is the unique key of your solution that can be retrieved from the BO companies widget in Autoshares Trader.
@@ -105,7 +105,7 @@ curl -X POST --header 'Content-Type: application/x-www-form-urlencoded' --header
 ```python
 import requests
 
-class EtnaAPIRequest:
+class AutosharesAPIRequest:
 
 	baseURL = "https://pub-api-et-demo-prod.etnasoft.us/api/"
 	EtAppKey = "your EtAppKey from the BO Companies widget"
@@ -142,7 +142,7 @@ class EtnaAPIRequest:
      "TrailingStopAmount" : 10,
    }
    
-   sampleRequest = EtnaAPIRequest()
+   sampleRequest = AutosharesAPIRequest()
    sampleRequest.placeOrder(newOrder, 6303) #placing a new order
 ```
 {% endcode-tabs-item %}
@@ -191,7 +191,7 @@ curl -X POST --header 'Content-Type: application/json' --header 'Accept: applica
 ```python
 import requests
 
-class EtnaAPIRequest:
+class AutosharesAPIRequest:
 
 	baseURL = "https://pub-api-et-demo-prod.etnasoft.us/api/"
 	EtAppKey = "your EtAppKey from the BO Companies widget"
@@ -211,7 +211,7 @@ class EtnaAPIRequest:
 			except:
 				return "No response"
 
-sampleRequest = EtnaAPIRequest()
+sampleRequest = AutosharesAPIRequest()
 #Retrieving information about the user 7420
 sampleRequest.getUsersInfo(7420)
 ```
@@ -243,7 +243,7 @@ curl -X GET --header 'Accept: application/json' --header 'Authorization: Bearer 
 ```python
 import requests
 
-class EtnaAPIRequest:
+class AutosharesAPIRequest:
 
 	baseURL = "https://pub-api-et-demo-prod.etnasoft.us/api/"
 	EtAppKey = "your EtAppKey from the BO Companies widget"
@@ -272,7 +272,7 @@ class EtnaAPIRequest:
 
 
 #Performing initial Authentication
-sampleRequest = EtnaAPIRequest()
+sampleRequest = AutosharesAPIRequest()
 sampleRequest.initialAuth()
 
 #retrieveing positions in account 6303
@@ -305,7 +305,7 @@ curl -X GET --header 'Accept: application/json' --header 'Authorization: Bearer 
 ```python
 import requests
 
-class EtnaAPIRequest:
+class AutosharesAPIRequest:
 
 	baseURL = "https://pub-api-et-demo-prod.etnasoft.us/api/"
 	EtAppKey = "your EtAppKey from the BO Companies widget"
@@ -326,7 +326,7 @@ class EtnaAPIRequest:
 			return "No response"
 			
 #Performing initial Authentication
-sampleRequest = EtnaAPIRequest()
+sampleRequest = AutosharesAPIRequest()
 sampleRequest.initialAuth()
 
 #declaring chart model
@@ -450,7 +450,7 @@ Creating new trading accounts is permitted only through the [extended API.](priv
 ```python
 import requests
 
-class EtnaAPIRequest:
+class AutosharesAPIRequest:
 
 	baseURL = "https://priv-api-et-demo-prod.etnasoft.us/api/"
 	EtAppKey = "your EtAppKey from the BO Companies widget"
@@ -469,7 +469,7 @@ class EtnaAPIRequest:
 		except:
 			return "No response"
 
-sampleRequest = EtnaAPIRequest()
+sampleRequest = AutosharesAPIRequest()
 
 #Creating a new trading account
 newTradingAccount = {
@@ -585,7 +585,7 @@ Creating new users is permitted only through the [extended API.](private-api/)
 ```python
 import requests
 
-class EtnaAPIRequest:
+class AutosharesAPIRequest:
 
 	baseURL = "https://priv-api-et-demo-prod.etnasoft.us/api/"
 	EtAppKey = "your EtAppKey from the BO Companies widget"
@@ -605,7 +605,7 @@ class EtnaAPIRequest:
 		except:
 			return "No response"
 
-sampleRequest = EtnaAPIRequest()
+sampleRequest = AutosharesAPIRequest()
 
 newUser = {
   "FirstName": "string",

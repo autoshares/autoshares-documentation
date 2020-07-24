@@ -9,7 +9,7 @@
 ```python
 import requests
 
-class EtnaAPIRequest:
+class AutosharesAPIRequest:
 
     baseURL = "https://pub-api-et-demo-prod.etnasoft.us/api/"
     EtAppKey = "Et App Key from the BO Companies widget"
@@ -48,7 +48,7 @@ class EtnaAPIRequest:
                 return "No response"
 
 #Performing initial authentication
-sampleRequest = EtnaAPIRequest()
+sampleRequest = AutosharesAPIRequest()
 sampleRequest.simpleAuth()
 
 #Retrieving information about the user 7420

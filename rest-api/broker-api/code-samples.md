@@ -21,7 +21,7 @@ If the request is successful, you'll receive a confirmation message as well as t
 ```python
 import requests
 
-class EtnaAPIRequest:
+class AutosharesAPIRequest:
 
 	baseURL = "https://priv-api-et-demo-prod.etnasoft.us/api/"
 	EtAppKey = "your EtAppKey from the BO Companies widget"
@@ -47,13 +47,13 @@ class EtnaAPIRequest:
 			return "No response"
 			
 #Performing initial Authentication
-sampleRequest = EtnaAPIRequest()
+sampleRequest = AutosharesAPIRequest()
 sampleRequest.initialAuth()
 ```
 {% endcode-tabs-item %}
 {% endcode-tabs %}
 
-In this example, there's a class called `EtnaAPIRequest` that has five properties:
+In this example, there's a class called `AutosharesAPIRequest` that has five properties:
 
 * `baseURL` — this is the URL that hosts your API. Each solution has its own base URL for both the Trader and the Developer API.
 * `EtAppKey` — this is the unique key of your solution that can be retrieved from the BO companies widget in Autoshares Trader.
@@ -91,7 +91,7 @@ You can then extract the returned token and assign it to the `token` property.
 ```python
 import requests
 
-class EtnaAPIRequest:
+class AutosharesAPIRequest:
 
 	baseURL = "https://priv-api-et-demo-prod.etnasoft.us/api/"
 	EtAppKey = "Et App Key from the BO Companies widget"
@@ -138,7 +138,7 @@ class EtnaAPIRequest:
 		except:
 			return "No response"
 
-sampleRequest = EtnaAPIRequest()
+sampleRequest = AutosharesAPIRequest()
 
 #performing the first step of authentication
 sampleRequest.simpleAuth()
@@ -179,7 +179,7 @@ curl -X POST --header 'Content-Type: application/x-www-form-urlencoded' --header
 ```python
 import requests
 
-class EtnaAPIRequest:
+class AutosharesAPIRequest:
 
 	baseURL = "https://priv-api-et-demo-prod.etnasoft.us/api/"
 	EtAppKey = "Et App Key from the BO Companies widget"
@@ -231,7 +231,7 @@ class EtnaAPIRequest:
 			return "No response"
 			
 #Performing initial Authentication
-sampleRequest = EtnaAPIRequest()
+sampleRequest = AutosharesAPIRequest()
 sampleRequest.simpleAuth()
 
 
@@ -297,7 +297,7 @@ curl -X POST --header 'Content-Type: application/json' --header 'Accept: applica
 ```python
 import requests
 
-class EtnaAPIRequest:
+class AutosharesAPIRequest:
 
 	baseURL = "https://priv-api-et-demo-prod.etnasoft.us/api/"
 	EtAppKey = "Et App Key from the BO Companies widget"
@@ -336,7 +336,7 @@ class EtnaAPIRequest:
 				return "No response"
 
 #Performing initial authentication
-sampleRequest = EtnaAPIRequest()
+sampleRequest = AutosharesAPIRequest()
 sampleRequest.simpleAuth()
 
 #Retrieving information about the user 7420
@@ -368,7 +368,7 @@ curl -X GET --header 'Accept: application/json' --header 'Authorization: Bearer 
 {% tabs %}
 {% tab title="Python" %}
 ```python
-class EtnaAPIRequest:
+class AutosharesAPIRequest:
 
 	baseURL = "https://priv-api-et-demo-prod.etnasoft.us/api/"
 	EtAppKey = "Et App Key from the BO Companies widget"
@@ -425,7 +425,7 @@ class EtnaAPIRequest:
 			return "No response"
 			
 #Performing initial Authentication
-sampleRequest = EtnaAPIRequest()
+sampleRequest = AutosharesAPIRequest()
 sampleRequest.simpleAuth()
 
 #retrieving the user's trading accounts
@@ -466,7 +466,7 @@ curl -X GET --header 'Accept: application/json' --header 'Authorization: Bearer 
 ```python
 import requests
 
-class EtnaAPIRequest:
+class AutosharesAPIRequest:
 
 	baseURL = "https://priv-api-et-demo-prod.etnasoft.us/api/"
 	EtAppKey = "Et App Key from the BO Companies widget"
@@ -505,7 +505,7 @@ class EtnaAPIRequest:
 			return "No response"
 			
 #Performing initial Authentication
-sampleRequest = EtnaAPIRequest()
+sampleRequest = AutosharesAPIRequest()
 sampleRequest.simpleAuth()
 
 #declaring chart model
@@ -629,7 +629,7 @@ Creating new trading accounts is permitted only through the [extended API.](./)
 ```python
 import requests
 
-class EtnaAPIRequest:
+class AutosharesAPIRequest:
 
 	baseURL = "https://priv-api-et-demo-prod.etnasoft.us/api/"
 	EtAppKey = "Et App Key from the BO Companies widget"
@@ -666,7 +666,7 @@ class EtnaAPIRequest:
 		except:
 			return "No response"
 
-sampleRequest = EtnaAPIRequest()
+sampleRequest = AutosharesAPIRequest()
 sampleRequest.simpleAuth()
 
 #Creating a new trading account
@@ -779,7 +779,7 @@ curl -X POST --header 'Content-Type: application/json' --header 'Accept: applica
 ```python
 import requests
 
-class EtnaAPIRequest:
+class AutosharesAPIRequest:
 
 	baseURL = "https://priv-api-et-demo-prod.etnasoft.us/api/"
 	EtAppKey = "Et App Key from the BO Companies widget"
@@ -817,7 +817,7 @@ class EtnaAPIRequest:
 		except:
 			return "No response"
 
-sampleRequest = EtnaAPIRequest()
+sampleRequest = AutosharesAPIRequest()
 sampleRequet.simpleAuth()
 
 newUser = {
