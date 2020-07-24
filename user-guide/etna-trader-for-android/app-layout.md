@@ -4,7 +4,7 @@ description: Learn about the design of ETNA Trader for Android
 
 # App Layout
 
-### Introduction
+## Introduction
 
 Once you launch ETNA Trader for Android, you'll notice that the app's layout represents five tabs, each tab displaying a separate screen with its own purpose. The list of tabs in the bar is as follows:
 
